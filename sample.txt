@@ -1,1 +1,2 @@
 this is first line in sample file
+this is second line for fetch command to learn 
